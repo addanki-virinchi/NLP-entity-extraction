@@ -14,4 +14,4 @@ To use our entity extraction tool, follow these installation instructions:
 1. **Prerequisites**: Ensure you have Python 3.x installed on your system.
 
 2. **Installation**: You can install our tool using pip:
-      # !pip install spacy 
+   ## !pip install spacy 
